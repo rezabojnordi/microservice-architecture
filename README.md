@@ -1,2 +1,2 @@
 # microservice-architecture
-microservice architecture, api, restful api
+Web service architecture
